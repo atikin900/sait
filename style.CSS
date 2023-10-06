@@ -1,0 +1,219 @@
+
+.Box1 {
+    width: 1900px;
+    height: 500px;
+    flex-shrink: 0;
+    background: #A8D7EB;
+    position: absolute;
+
+
+}
+.Box2 {
+    width: 1450px;
+    height: 416px;
+    flex-shrink: 0;
+    background: #D9D9D9;
+    position: absolute;
+
+}
+
+.Box3 {
+    width: 1700px;
+    height: 440px;
+flex-shrink: 0;
+background: #FFA1A1;
+position: relative;
+margin: auto;
+
+top: 60px;
+
+}
+.Box4 {
+    width: 1700px;
+    height: 390px;
+flex-shrink: 0;
+fill: #F1F1F1;
+box-shadow: 4px 8px 16px 0px rgba(0, 0, 0, 0.25);
+position: relative;
+margin: auto;
+top: 60px;
+
+}
+.img {
+    position: relative;
+    width: 1700px;
+    height: 1400px;
+}
+.box {
+    width: 300px;
+    height: 492px;
+  }
+  
+  .box .i {
+    position: fixed;
+    width: 400px;
+    height: 240px;
+    top: 268px;
+    left: 750px;
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  .label {
+    width: 159px;
+    height: 48px;
+  }
+  
+  .label .text-wrapper {
+    position: fixed;
+    top: 557px;
+    left: 870px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #0f313b;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .box {
+    width: 30px;
+    height: 20px;
+  }
+  
+  .box .group {
+    position: fixed;
+    width: 27px;
+    height: 20px;
+    top: 150px;
+    left: 220px;
+  }
+
+  .box {
+    width: 73px;
+    height: 21px;
+  }
+  
+  .box .JXOS {
+    position: fixed;
+    width: 73px;
+    height: 21px;
+    top: 40px;
+    left: 0;
+  }
+  .JXOS {
+    width: 159px;
+    height: 48px;
+  }
+  
+  .JXOS .text-wrapper {
+    position: fixed;
+    top: 100px;
+    left: 880px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #0f313b;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .Shirts {
+    width: 100px;
+    height: 48px;
+  }
+  
+  .Shirts .text-wrapper {
+    position: fixed;
+    width: 100px;
+    height: 50px;
+    top: 130px;
+    left: 600px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 500;
+    color: #0f313b;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .Bags {
+    width: 100px;
+    height: 48px;
+  }
+  
+  .Bags .text-wrapper {
+    position: fixed;
+    width: 100px;
+    height: 50px;
+    top: 130px;
+    left: 750px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 500;
+    color: #0f313b;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .Shirts1 {
+    width: 100px;
+    height: 48px;
+  }
+  
+  .Shirts1 .text-wrapper {
+    position: fixed;
+    width: 100px;
+    height: 50px;
+    top: 130px;
+    left: 1070px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 500;
+    color: #0f313b;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .Toys {
+    width: 100px;
+    height: 48px;
+  }
+  
+  .Toys .text-wrapper {
+    position: fixed;
+    width: 100px;
+    height: 50px;
+    top: 130px;
+    left: 1200px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 500;
+    color: #0f313b;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .CAT {
+    width: 159px;
+    height: 48px;
+  }
+  
+  .CAT .text-wrapper {
+    position: fixed;
+    top: 491px;
+    left: 900px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #0f313b;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    font-family: 'Times New Roman';
+    font-style: italic;
+  }
