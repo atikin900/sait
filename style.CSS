@@ -112,7 +112,7 @@ top: 60px;
     left: 880px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
-    color: #0f313b;
+    color: #000;
     font-size: 40px;
     letter-spacing: 0;
     line-height: normal;
@@ -131,7 +131,7 @@ top: 60px;
     left: 600px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 500;
-    color: #0f313b;
+    color: #000;
     font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
@@ -151,7 +151,7 @@ top: 60px;
     left: 750px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 500;
-    color: #0f313b;
+    color: #000;
     font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
@@ -171,7 +171,7 @@ top: 60px;
     left: 1070px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 500;
-    color: #0f313b;
+    color: #000;
     font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
@@ -191,7 +191,7 @@ top: 60px;
     left: 1200px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 500;
-    color: #0f313b;
+    color: #000;
     font-size: 30px;
     letter-spacing: 0;
     line-height: normal;
@@ -216,4 +216,24 @@ top: 60px;
     white-space: nowrap;
     font-family: 'Times New Roman';
     font-style: italic;
+  }
+
+  .Text {
+    width: 159px;
+    height: 48px;
+  }
+  
+  .Text .text-wrapper {
+    position: fixed;
+    top: 491px;
+    left: 900px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #0f313b;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    font-family: 'Times New Roman';
+
   }
